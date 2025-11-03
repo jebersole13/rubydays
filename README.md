@@ -1,4 +1,4 @@
-This is a read me for the foreseeable streams. 
+This is a README for the foreseeable streams. 
 
 We will be adding each days work here, regardless if it is a project or just tooling around with Ruby.
 
